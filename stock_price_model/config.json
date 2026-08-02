@@ -1,0 +1,11 @@
+{
+    "input_size": 1,
+    "hidden_size": 32,
+    "num_layers": 2,
+    "output_size": 1,
+    "seq_len": 30,
+    "ticker": "AAPL",
+    "model_type": "LSTM",
+    "training_date": "2026-08-02 18:43:02.295476",
+    "description": "Baseline LSTM model for stock price prediction"
+}
